@@ -7,3 +7,5 @@ Academia Downloader adalah alat sederhana untuk mengunduh dokumen dari Academia.
    ```pip install requests```  
    ```python academia_downloader.py```  
 
+## Preview
+![Alt Text](https://www.example.com/image.jpg)
