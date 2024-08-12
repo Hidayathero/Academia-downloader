@@ -1,5 +1,3 @@
-# Academia-downloader
-
 # instalasi
 git clone 
 pip install requests
